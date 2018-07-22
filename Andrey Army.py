@@ -351,7 +351,4 @@ async def debug(ctx, *args):
         await bot.say("You don't have permissions for this command.")
 
 
-
-
-
 bot.run(os.getenv("NDYxMjQ2NjkzMzYzNDE3MDk4.DjPFjA.31vjHQhlsKA6maFcQN_42VGD2WY"))
